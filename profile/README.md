@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-We are is a little indie videogame development team full of ideas! :)
+We are is a little **indie videogame development team** full of ideas! :)
 
 ### Now developing ...
 
@@ -9,4 +9,4 @@ We are is a little indie videogame development team full of ideas! :)
 
 
 ### IO World 
-A little 2D puzzle platformer in the tiny world of IO! Solve the puzzles, jump and enjoy doing thing in this little cyber-cute adventure ;)
+A little **2D puzzle platforme**r in the tiny world of IO! Solve the puzzles, jump and enjoy doing thing in this little **cyber-cute adventure** ;)
