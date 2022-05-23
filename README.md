@@ -1,2 +1,2 @@
 # .github
-Nighligh studios
+Nighlight studios Github setup!
